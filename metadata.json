@@ -1,0 +1,6 @@
+{
+  "name": "AI Character and Quantum Deep Research Suite",
+  "description": "An interactive full-stack workspace featuring AI Character Generation, Thumbnail Layout Makers, and an Autonomous Self-Learning Quantum Deep-Research Agent with live search grounding and widget compiler.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
